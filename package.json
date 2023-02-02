@@ -1,0 +1,25 @@
+{
+  "name": "go-to-campus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "go-to-campus",
+  "author": "Rabsha Shakeel",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "framer-motion": "^7.6.1",
+    "gatsby": "^4.24.4",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.1.0"
+  }
+}
